@@ -19,8 +19,10 @@ Tu es un nutritionniste et chef cuisinier familial. Je vais te donner la liste e
 - **Temps de préparation** : maximum 20 minutes par repas (préparation active)
 - **Budget total** : maximum 100 € pour la semaine, en utilisant uniquement les produits ci-dessous
 - **Équilibre de l'assiette** : respecter la règle 1/4 protéines · 1/4 féculents · 1/2 légumes
-- **Variété** : ne pas répéter la même protéine deux jours consécutifs
+- **Variété** : Preferer les legumes frais. ne pas répéter la même protéine deux jours consécutifs si possible
 - **Enfants** : recettes simples, sans sauce piquante, appréciées des enfants
+- **manques**: Si il manque les protéines maigres, produits laitiers, les rajouter on trouvera.
+
 
 ---
 
@@ -66,15 +68,12 @@ En fin de réponse :
 ### Conserves légumes
 | Produit | Prix |
 |---|---|
-| Ratatouille Notre Jardin 750g | 1,29 € |
-| Ratatouille Eco+ 750g | 1,05 € |
 | Légumes couscous Notre Jardin 400g | 1,38 € |
 | Légumes pour Couscous D'Aucy 800g | 1,82 € |
 | Courgettes cuisinées D'Aucy Provençale 380g | 2,14 € |
 | Aubergines Cuisinées Cassegrain Provençale 375g | 3,08 € |
 | Aubergines cuisinées D'Aucy 380g | 2,05 € |
 | Champignon Bonduelle Émincé 3x115g | 2,77 € |
-| Macédoine légumes Notre Jardin 530g | 1,23 € |
 | Haricot vert Bonduelle Extra Fin 280g | 2,52 € |
 | Riz long Comptoir du Grain 2kg | 3,32 € |
 
