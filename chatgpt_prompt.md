@@ -4,6 +4,8 @@
 
 Tu es un nutritionniste et chef cuisinier familial. Tu dois créer un menu de la semaine équilibré, économique et rapide à préparer, en utilisant **uniquement** les produits disponibles dans le catalogue Leclerc Drive ci-dessous.
 
+Inspire-toi des recommandations de [Manger Bouger](https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/mon-menu) tout en respectant les contraintes ci-dessous.
+
 ---
 
 ## Contraintes obligatoires
@@ -15,12 +17,13 @@ Tu es un nutritionniste et chef cuisinier familial. Tu dois créer un menu de la
 
 ### **⚠️ ALLERGIE GRAVE — TOMATES INTERDITES ⚠️**
 **ZÉRO tomate sous aucune forme : ni fraîche, ni en conserve, ni en sauce, ni en ingrédient caché.**
-Produits à risque à exclure impérativement :
+Produits à exclure impérativement :
 - Toutes les ratatouilles (contiennent des tomates)
 - Courgettes cuisinées D'Aucy Provençale (risque tomates)
 - Tout produit "à la provençale" sans vérification d'étiquette
 - Légumes pour couscous (vérifier la composition)
-En cas de doute sur un ingrédient caché, exclure le produit ou signaler un avertissement en rouge.
+- Pâtes "Nature tomate épinard" (contiennent des tomates)
+En cas de doute sur un ingrédient caché, exclure le produit ou signaler un avertissement explicite.
 
 ### Budget
 - Maximum 100 € pour toute la semaine
@@ -34,10 +37,16 @@ En cas de doute sur un ingrédient caché, exclure le produit ou signaler un ave
 - Samedi + Dimanche : déjeuner ET dîner (4 repas)
 - Total : 9 repas
 
-### Équilibre nutritionnel
+### Équilibre nutritionnel (recommandations Manger Bouger)
 - Assiette : 1/4 protéine · 1/4 féculent · 1/2 légumes
 - Ne pas répéter la même protéine deux jours consécutifs
 - Varier les légumes au fil de la semaine
+- Inclure du poisson au moins 2 fois dans la semaine
+
+### Anti-gaspillage
+- **Réutiliser les mêmes légumes sur plusieurs repas** pour éviter le gaspillage.
+- Par exemple, acheter un sachet de carottes 2kg et l'utiliser sur 3 repas ; acheter 1kg de courgettes et les répartir sur 2-3 repas.
+- Indiquer en fin de menu un tableau récapitulatif des légumes mutualisés.
 
 ---
 
@@ -46,8 +55,7 @@ En cas de doute sur un ingrédient caché, exclure le produit ou signaler un ave
 ```
 ### [Jour] [midi/soir]
 **[Nom du plat]**
-- Produit exact du catalogue → prix €
-- ...
+- Produit exact du catalogue → prix €  *(utilisé aussi [autre jour] si mutualisé)*
 
 *Préparation :* [étapes simples]
 
@@ -56,13 +64,10 @@ En cas de doute sur un ingrédient caché, exclure le produit ou signaler un ave
 **Coût repas : ~X,XX €**
 ```
 
-Terminer par un tableau récapitulatif :
-
-| Produit | Qté | Prix unitaire | Total |
-|---------|-----|--------------|-------|
-| ...     | ... | ...          | ...   |
-
-**TOTAL ~X,XX €**
+Terminer par :
+1. Un tableau récapitulatif des courses (un achat par produit, même si utilisé plusieurs fois)
+2. Le total global
+3. Un tableau des légumes mutualisés
 
 Si le total dépasse 100 € : proposer une optimisation concrète (substitution de produit moins cher).
 
@@ -98,27 +103,11 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Sauces gourmandes Rustica Pour viande 4 saveurs - 4x90g → 2,34 €
 - Frites Pom'lisse 2.5 kg → 3,99 €
 
-### Conserves (31 produits)
+### Conserves (produits utilisables — ratatouilles toutes exclues)
 > ⚠️ **TOUTES les ratatouilles contiennent des tomates → INTERDITES**
-- ~~Ratatouille Notre Jardin A la provençale - 750g~~ → EXCLUE (tomates)
-- ~~Ratatouille Notre Jardin A la provençale - 375g~~ → EXCLUE (tomates)
-- ~~Ratatouille Bio Village Bio A la provençale - 650g~~ → EXCLUE (tomates)
-- ~~Ratatouille Eco+ 750g~~ → EXCLUE (tomates)
-- ~~Ratatouille à la Provençale NRT 650g~~ → EXCLUE (tomates)
-- ~~Ratatouille Cuisinée Cassegrain à la Provençale 660g~~ → EXCLUE (tomates)
-- ~~Ratatouille Cuisinée Cassegrain à la Provençale 380g~~ → EXCLUE (tomates)
-- ~~Ratatouille Cuisinée Cassegrain à la Provençale 185g~~ → EXCLUE (tomates)
-- ~~Ratatouille niçoise D'aucy 750g~~ → EXCLUE (tomates)
-- ~~Ratatouille provençale d'aucy 42,5cl~~ → EXCLUE (tomates)
-- ~~Ratatouille Jardin Bio' A la provençale bio - 650g~~ → EXCLUE (tomates)
-- Legumes couscous Cassegrain 430g → 2,72 € ⚠️ vérifier composition (risque tomates)
-- Légumes couscous Notre Jardin 400g → 1,38 € ⚠️ vérifier composition
-- Légumes pour Couscous D'Aucy Orientale - 800g → 1,82 € ⚠️ vérifier composition
-- Légumes pour couscous bio Jardin Bio - 660g → 2,68 € ⚠️ vérifier composition
 - Le Haricot vert Cueilli Main Bonduelle Extra Fin 280g → 2,52 €
 - Courgettes Cuisinées Cassegrain à la Provençale 375g → 3,20 € ⚠️ vérifier composition
 - Courgettes Cuisinées Cassegrain à la Provençale 185g → 2,22 € ⚠️ vérifier composition
-- ~~Courgettes cuisinées D'Aucy Provencale - 380g~~ → EXCLUE par précaution (risque tomates)
 - Aubergines Cuisinées Cassegrain à la Provençale 375g → 3,08 € ⚠️ vérifier composition
 - Aubergines compotées & blé Cassegrain - 375g → 3,54 €
 - Aubergines Cuisinées Cassegrain à la Provençale 185g → 2,38 € ⚠️ vérifier composition
@@ -131,8 +120,11 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Macédoine déjà égouttée D'aucy 265g → 1,35 €
 - Macédoine déjà égouttée D'aucy 530g → 2,06 €
 - Riz long Comptoir du Grain Cuisson rapide - 2kg → 3,32 €
+- Légumes couscous Notre Jardin 400g → 1,38 € ⚠️ vérifier composition (risque tomates)
+- Légumes pour Couscous D'Aucy Orientale - 800g → 1,82 € ⚠️ vérifier composition
+- Légumes pour couscous bio Jardin Bio - 660g → 2,68 € ⚠️ vérifier composition
 
-### Légumes frais (66 produits — tomates exclues)
+### Légumes frais (tomates exclues)
 > ⚠️ **Toutes les tomates sont INTERDITES (allergie)**
 - Haricots verts éboutés 500g → 5,99 €
 - Pousses haricot Mungo Les Crudettes - 250g → 2,16 €
@@ -148,19 +140,6 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Poivron Bicolore bio Bio Village x2 → 1,99 €
 - Mélange de poivrons doux 500g → 2,49 €
 - Mini poivrons mélange HVE Panier du Primeur - 200g → 3,99 €
-- ~~Tomate Coeur de pigeon Bio Saveol - 250g~~ → EXCLUE (allergie tomates)
-- ~~Tomates cerises colorées Panier du Primeur - 350g~~ → EXCLUE
-- ~~Tomates cerises allongées Panier du Primeur - 250g~~ → EXCLUE
-- ~~Tomates cerises bio Bio Village - 250g~~ → EXCLUE
-- ~~Duo coeur de pigeon Bio Savéol 250g~~ → EXCLUE
-- ~~Tomate cocktail grappe Filière Panier du Primeur - 500g~~ → EXCLUE
-- ~~Tomates cerises gustatives Panier du Primeur - 300g~~ → EXCLUE
-- ~~Tomates rondes Eco+ Filet 1kg~~ → EXCLUE
-- ~~Tomates allongées Panier du Primeur - 600g~~ → EXCLUE
-- ~~Tomates rondes grappe HVE Panier du Primeur - 750g~~ → EXCLUE
-- ~~Tomate ronde grappe Bio Village Bio - 500g~~ → EXCLUE
-- ~~Tomates Les Originales Panier du Primeur - 750g~~ → EXCLUE
-- ~~Tomate côtelée noire de Crimée 500g~~ → EXCLUE
 - Concombre Panier du Primeur HVE - x2 → 2,99 €
 - Concombre Bio Bio Village x1 → 1,99 €
 - Concombre Noa 1 pièce → 3,69 €
@@ -201,12 +180,11 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Oignons jaunes Filière Panier du Primeur Filet 1kg → 1,99 €
 - Chèvre à dorer Les Croisés x4 - 100g → 1,75 €
 
-### Pâtes et féculents (25 produits)
+### Pâtes et féculents
 - Pâtes Coquillettes Turini 1kg → 1,35 €
 - Pâtes Coquillettes Turini 500g → 0,75 €
 - Pâtes Torsades Turini 1kg → 1,17 €
 - Pâtes Torsades Turini 500g → 0,59 €
-- Pâtes Torsades Turini Nature tomate épinard - 500g → 1,07 € ⚠️ contient tomate → EXCLUE
 - Pâtes Penne Regate Turini 500g → 0,59 €
 - Mini penne Turini 500g → 0,97 €
 - Mini farfalle Turini 500g → 1,09 €
@@ -227,7 +205,7 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Pâtes Etoiles Turini 500g → 0,99 €
 - Muscade Noix Entières Ducros 18 g → 2,66 €
 
-### Poissonnerie (26 produits)
+### Poissonnerie
 - Queues de langouste crue Ronde des Mers - 340g → 23,79 €
 - Crevette cuite 60/80 Equat ASC L'Atelier Poissonnerie - 500g → 4,99 €
 - Crevettes natures Pêche Océan 125g → 3,99 €
@@ -255,7 +233,7 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Citron à jus Filière Panier du Primeur Sachet 1kg → 3,69 €
 - Crevettes décortiquées Eco+ 500g → 4,99 €
 
-### Volaille (25 produits)
+### Volaille
 - Saucisse de volaille Volandrie x6 - 300g → 3,49 €
 - Filet de poulet Bon Plan Douce France - 500g → 5,67 €
 - Cuisses de poulet Bon Plan Douce France - 900g → 4,62 €
@@ -282,7 +260,7 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 - Mayonnaise Rustica 830g → 3,65 €
 - Pommes frites Eco+ 2,5kg → 2,67 €
 
-### Fruits (23 produits)
+### Fruits
 - Duo Raisins Sans Pepin - 500g → 2,99 €
 - Myrtilles Panier du Primeur 125g → 1,99 €
 - Mûre Panier du Primeur 125g → 2,49 €
@@ -313,7 +291,9 @@ Si le total dépasse 100 € : proposer une optimisation concrète (substitution
 
 1. Utilise **uniquement** les produits listés ci-dessus.
 2. Indique le **nom exact** du produit tel qu'il apparaît dans le catalogue.
-3. Respecte **toutes** les contraintes sans exception.
-4. Calcule le coût de chaque repas et le total de la liste de courses.
-5. Signale en rouge tout produit dont la composition mérite vérification (risque tomates caché).
-6. Propose **au moins 2 repas simples** (< 10 min).
+3. Respecte **toutes** les contraintes sans exception, notamment l'allergie tomates.
+4. Mutualise les légumes : planifie 3-4 légumes clés achetés en grand format et répartis sur plusieurs repas.
+5. Calcule le coût de chaque repas et le total de la liste de courses.
+6. Signale tout produit dont la composition mérite vérification (risque tomates caché).
+7. Propose **au moins 2 repas simples** (< 10 min).
+8. Inclure du poisson au moins 2 fois dans la semaine.
