@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Haricots verts éboutés 500g",
+    "origin": "KENYA",
+    "price_eur": 5.99,
+    "price_per_unit": "11,98 € / kg"
+  },
+  {
+    "name": "Pousses haricot Mungo Les Crudettes - 250g",
+    "origin": null,
+    "price_eur": 2.16,
+    "price_per_unit": "8,64 € / kg"
+  },
+  {
+    "name": "Radis ronds Panier du Primeur - 250g",
+    "origin": "FRANCE",
+    "price_eur": 0.99,
+    "price_per_unit": "3,96 € / kg"
+  },
+  {
+    "name": "Courgettes Bio Bio Village Filet - 750g",
+    "origin": "FRANCE",
+    "price_eur": 2.49,
+    "price_per_unit": "3,32 € / kg"
+  },
+  {
+    "name": "Courgette 1kg",
+    "origin": "FRANCE",
+    "price_eur": 2.19,
+    "price_per_unit": "2,19 € / kg"
+  },
+  {
+    "name": "Aubergine Bio Bio Village x2",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "1,50 € / p"
+  },
+  {
+    "name": "Aubergine 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 1.65,
+    "price_per_unit": ""
+  },
+  {
+    "name": "Poivron doux jaune 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 1.39,
+    "price_per_unit": ""
+  },
+  {
+    "name": "Poivron doux rouge 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 1.25,
+    "price_per_unit": ""
+  },
+  {
+    "name": "Poivron doux vert 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 1.29,
+    "price_per_unit": ""
+  },
+  {
+    "name": "Poivrons bicolores Eco+ x2",
+    "origin": "ESPAGNE",
+    "price_eur": 0.99,
+    "price_per_unit": "0,50 € / p"
+  },
+  {
+    "name": "Poivron Bicolore bio Bio Village x2",
+    "origin": "ESPAGNE",
+    "price_eur": 1.99,
+    "price_per_unit": "1,00 € / p"
+  },
+  {
+    "name": "Mélange de poivrons doux 500g",
+    "origin": "ESPAGNE",
+    "price_eur": 2.49,
+    "price_per_unit": "4,98 € / kg"
+  },
+  {
+    "name": "Mini poivrons mélange HVE Panier du Primeur - 200g",
+    "origin": "FRANCE",
+    "price_eur": 3.99,
+    "price_per_unit": "19,95 € / kg"
+  },
+  {
+    "name": "Tomate Coeur de pigeon Bio Saveol - 250g",
+    "origin": "FRANCE",
+    "price_eur": 3.99,
+    "price_per_unit": "15,96 € / kg"
+  },
+  {
+    "name": "Tomates cerises colorées Panier du Primeur - 350g",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "8,54 € / kg"
+  },
+  {
+    "name": "Chèvre à dorer Les Croisés x4 - 100g",
+    "origin": "",
+    "price_eur": 1.75,
+    "price_per_unit": "17,50 € / kg"
+  }
+]
