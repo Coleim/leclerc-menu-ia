@@ -10,35 +10,33 @@ Tu es un nutritionniste et chef cuisinier familial. Je vais te donner la liste e
 
 - **Famille** : 4 personnes — 2 adultes et 2 enfants (5 ans et 8 ans)
 - **Santé adulte** : 1 adulte en perte de poids (préciser les adaptations de portions dans chaque recette)
-- **Santé enfant** : 1 enfant à surveiller (à préciser pour les graisses/sucres)
-- **Allergie/exclusion** : PAS DE TOMATES sous aucune forme
+- **Santé enfant** : 1 enfant à surveiller (limiter les graisses, le sel et les épices fortes)
+- **Allergie/exclusion** : PAS DE TOMATES sous aucune forme (ni fraîches, ni en conserve, ni en sauce)
 - **Repas concernés** :
-  - Semaine (lundi à vendredi) : **dîner uniquement**
-  - Week-end (samedi et dimanche) : **déjeuner ET dîner**
-  - Total : 5 + 4 = **9 repas**
-- **Temps de préparation** : maximum 20 minutes par repas (préparation active)
-- **Budget total** : maximum 100 € pour la semaine, en utilisant uniquement les produits ci-dessous
+  - Semaine (lundi à vendredi) : **dîner uniquement** → 5 repas
+  - Week-end (samedi et dimanche) : **déjeuner ET dîner** → 4 repas
+  - Total : **9 repas**
+- **Temps de préparation** : maximum 20 minutes de préparation active par repas
+- **Budget total** : maximum 100 € pour toute la semaine, en utilisant uniquement les produits listés ci-dessous
 - **Équilibre de l'assiette** : respecter la règle 1/4 protéines · 1/4 féculents · 1/2 légumes
-- **Variété** : Preferer les legumes frais. ne pas répéter la même protéine deux jours consécutifs si possible
+- **Variété** : ne pas répéter la même protéine deux jours consécutifs
 - **Enfants** : recettes simples, sans sauce piquante, appréciées des enfants
-- **manques**: Si il manque les protéines maigres, produits laitiers, les rajouter on trouvera.
-
 
 ---
 
 ## FORMAT DE RÉPONSE ATTENDU
 
-Pour chaque repas, fournir :
+Pour chaque repas :
 1. Nom du plat
-2. Ingrédients utilisés avec quantités (depuis la liste ci-dessous)
-3. Étapes de préparation numérotées (max 5 étapes)
-4. Adaptation pour l'adulte en perte de poids
+2. Ingrédients avec quantités précises (depuis la liste ci-dessous uniquement)
+3. Étapes de préparation numérotées (max 5 étapes, max 20 min)
+4. Adaptation spécifique pour l'adulte en perte de poids
 5. Coût estimé du repas
 
 En fin de réponse :
-- Un tableau récapitulatif des courses avec quantités et prix
-- Le total estimé
-- Les éventuels dépassements de budget avec une suggestion d'optimisation
+- Tableau récapitulatif de la liste de courses avec quantités et prix
+- Total estimé de la semaine
+- Si le total dépasse 100 €, proposer une optimisation pour y revenir
 
 ---
 
@@ -68,12 +66,15 @@ En fin de réponse :
 ### Conserves légumes
 | Produit | Prix |
 |---|---|
+| Ratatouille Notre Jardin 750g | 1,29 € |
+| Ratatouille Eco+ 750g | 1,05 € |
 | Légumes couscous Notre Jardin 400g | 1,38 € |
 | Légumes pour Couscous D'Aucy 800g | 1,82 € |
 | Courgettes cuisinées D'Aucy Provençale 380g | 2,14 € |
 | Aubergines Cuisinées Cassegrain Provençale 375g | 3,08 € |
 | Aubergines cuisinées D'Aucy 380g | 2,05 € |
 | Champignon Bonduelle Émincé 3x115g | 2,77 € |
+| Macédoine légumes Notre Jardin 530g | 1,23 € |
 | Haricot vert Bonduelle Extra Fin 280g | 2,52 € |
 | Riz long Comptoir du Grain 2kg | 3,32 € |
 
@@ -90,6 +91,25 @@ En fin de réponse :
 | Poivron doux vert 1p | 1,29 € |
 | Poivrons bicolores Eco+ x2 | 0,99 € |
 | Mélange de poivrons doux 500g | 2,49 € |
+| Concombre Panier du Primeur HVE x2 | 2,99 € |
+| Concombre Bio Bio Village x1 | 1,99 € |
+| Fenouil 1p | 1,71 € |
+| Avocats Eco+ Filet x3 | 1,99 € |
+| Avocats mûrs à point Panier du Primeur x2 | 3,45 € |
+| Betterave rouge Notre Jardin cuite 500g | 0,69 € |
+| Blancs de poireaux filière Panier du Primeur 500g | 3,49 € |
+| Carottes Eco+ Sachet 2kg | 2,49 € |
+| Carottes filière Panier du Primeur 1kg | 1,53 € |
+| Carotte Bio Bio Village 1kg | 1,99 € |
+| Baby carottes Notre Jardin 250g | 1,59 € |
+| Céleri 1 branche | 2,99 € |
+| Champignons de Paris blancs Panier du Primeur 400g | 2,39 € |
+| Champignons de Paris bruns Panier du Primeur 250g | 1,79 € |
+| Chou-fleur blanc 1p | 4,99 € |
+| Chou rouge émincé Notre Jardin 250g | 0,99 € |
+| Ail Eco+ Filet 250g | 1,99 € |
+| Oignons jaunes Eco+ 1,5kg | 1,69 € |
+| Oignons jaunes Filière Panier du Primeur 1kg | 1,99 € |
 | Radis ronds Panier du Primeur 250g | 0,99 € |
 
 ### Pâtes
@@ -104,17 +124,21 @@ En fin de réponse :
 | Pâtes Macaroni Turini 500g | 0,75 € |
 | Pâtes Coquillettes Turini 500g | 0,75 € |
 
-### Fruits (pour les desserts / goûters si budget le permet)
+### Fruits
 | Produit | Prix |
 |---|---|
 | Nectarines Eco+ Barquette 1kg | 2,99 € |
 | Abricots Eco+ Barquette 1kg | 2,99 € |
 | Melon Eco+ x1 | 0,99 € |
+| Framboises Panier du Primeur 125g | 1,99 € |
+| Myrtilles Panier du Primeur 125g | 1,99 € |
 
 ---
 
-## NOTE IMPORTANTE
+## AVERTISSEMENT TOMATES
 
-Les produits contenant des tomates sont à éviter même dans les conserves (vérifier les ingrédients des ratatouilles qui peuvent contenir des tomates — si c'est le cas, les exclure ou les mentionner comme option à confirmer).
+Les ratatouilles en conserve contiennent généralement des tomates. Si tu les utilises dans le menu, signale-le clairement et propose une alternative sans tomates (courgettes cuisinées ou aubergines cuisinées D'Aucy).
 
-Génère maintenant le menu complet semaine + week-end avec recettes et liste de courses chiffrée.
+---
+
+Génère maintenant le menu complet semaine + week-end avec recettes détaillées et liste de courses chiffrée.

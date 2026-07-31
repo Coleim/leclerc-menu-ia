@@ -673,6 +673,349 @@
   },
   {
     "category": "legumes",
+    "name": "Tomates cerises allongées Panier du Primeur - 250g",
+    "origin": "FRANCE",
+    "price_eur": 2.49,
+    "price_per_unit": "9,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates cerises bio Bio Village Allongées bicolores - 250g",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "11,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Duo coeur de pigeon Bio Savéol 250g",
+    "origin": "FRANCE",
+    "price_eur": 3.99,
+    "price_per_unit": "15,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomate cocktail grappe Filière Panier du Primeur - 500g",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "5,98 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates cerises gustatives Panier du Primeur - 300g",
+    "origin": "FRANCE",
+    "price_eur": 3.49,
+    "price_per_unit": "11,63 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates rondes Eco+ Filet 1kg",
+    "origin": "FRANCE",
+    "price_eur": 1.99,
+    "price_per_unit": "1,99 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates allongées Panier du Primeur - 600g",
+    "origin": "FRANCE",
+    "price_eur": 3.49,
+    "price_per_unit": "5,82 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates rondes grappe HVE Panier du Primeur - 750g",
+    "origin": "FRANCE",
+    "price_eur": 2.59,
+    "price_per_unit": "3,45 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomate ronde grappe Bio Village Bio - 500g",
+    "origin": "FRANCE",
+    "price_eur": 2.59,
+    "price_per_unit": "5,18 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomates Les Originales Panier du Primeur - 750g",
+    "origin": "FRANCE",
+    "price_eur": 3.79,
+    "price_per_unit": "5,05 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Tomate côtelée noire de Crimée 500g",
+    "origin": "FRANCE",
+    "price_eur": 3.39,
+    "price_per_unit": "6,78 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Concombre Panier du Primeur HVE - x2",
+    "origin": "France",
+    "price_eur": 2.99,
+    "price_per_unit": "1,50 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Concombre Bio Bio Village x1",
+    "origin": "Espagne",
+    "price_eur": 1.99,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Concombre Noa 1 pièce",
+    "origin": "FRANCE",
+    "price_eur": 3.69,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Fenouil 1p",
+    "origin": "ITALIE",
+    "price_eur": 1.71,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Avocats Eco+ Filet x3",
+    "origin": "PÉROU",
+    "price_eur": 1.99,
+    "price_per_unit": "0,66 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Avocats mûrs à point Panier du Primeur x2",
+    "origin": "PÉROU",
+    "price_eur": 3.45,
+    "price_per_unit": "1,73 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Avocat Bio Bio Village En barquette x2",
+    "origin": "KENYA",
+    "price_eur": 3.59,
+    "price_per_unit": "1,80 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Betterave rouge Notre Jardin Entière cuite sous vide - 500g",
+    "origin": "FRANCE",
+    "price_eur": 0.69,
+    "price_per_unit": "1,38 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Betterave rouge Bio Bio Village - 500g",
+    "origin": null,
+    "price_eur": 1.09,
+    "price_per_unit": "2,18 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Blancs de poireaux filière Panier du Primeur - 500g",
+    "origin": "FRANCE",
+    "price_eur": 3.49,
+    "price_per_unit": "6,98 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Carottes Eco+ Sachet de 2kg",
+    "origin": "FRANCE",
+    "price_eur": 2.49,
+    "price_per_unit": "1,25 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Carottes filière Panier du Primeur - 1kg",
+    "origin": "FRANCE",
+    "price_eur": 1.53,
+    "price_per_unit": "1,53 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Carotte Bio Bio Village 1kg",
+    "origin": "FRANCE",
+    "price_eur": 1.99,
+    "price_per_unit": "1,99 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Carotte 2 Kg",
+    "origin": "FRANCE",
+    "price_eur": 1.79,
+    "price_per_unit": "0,90 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Baby carottes Notre Jardin 250g",
+    "origin": "FRANCE",
+    "price_eur": 1.59,
+    "price_per_unit": "6,36 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Baby carottes Florette 250g",
+    "origin": null,
+    "price_eur": 2.17,
+    "price_per_unit": "8,68 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Baby Carottes 450g",
+    "origin": null,
+    "price_eur": 3.6,
+    "price_per_unit": "8,00 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Baby Carottes Ferme à Jules 200g",
+    "origin": "FRANCE",
+    "price_eur": 1.75,
+    "price_per_unit": "8,75 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Baby carottes La Ferme à Jules Les Crudettes - 400g",
+    "origin": null,
+    "price_eur": 3.14,
+    "price_per_unit": "7,85 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Céleri 1 branche",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Champignons de Paris blancs Panier du Primeur - 400g",
+    "origin": "FRANCE",
+    "price_eur": 2.39,
+    "price_per_unit": "5,98 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Champignons de Paris blancs Bio Bio Village - 200g",
+    "origin": "FRANCE",
+    "price_eur": 2.29,
+    "price_per_unit": "11,45 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Champignons de Paris bruns Panier du Primeur - 250g",
+    "origin": "FRANCE",
+    "price_eur": 1.79,
+    "price_per_unit": "7,16 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Champignons de Paris bruns bio Bio Village - Barquette 200g",
+    "origin": "FRANCE",
+    "price_eur": 2.29,
+    "price_per_unit": "11,45 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Cèpes déshydratés Notre Jardin 40g",
+    "origin": null,
+    "price_eur": 3.16,
+    "price_per_unit": "79,00 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Chou-fleur blanc 1p",
+    "origin": "FRANCE",
+    "price_eur": 4.99,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Chou-fleur Florette 180g",
+    "origin": null,
+    "price_eur": 2.1,
+    "price_per_unit": "11,67 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Chou rouge émincé Notre Jardin 250g",
+    "origin": null,
+    "price_eur": 0.99,
+    "price_per_unit": "3,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Ail Eco+ Filet 250g",
+    "origin": "ESPAGNE",
+    "price_eur": 1.99,
+    "price_per_unit": "7,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Ail blanc Panier du Primeur A mijoter et à confire x3",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "1,00 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "IGP Ail blanc de Lomagne Nos Régions ont du Talent 320g",
+    "origin": "FRANCE",
+    "price_eur": 3.99,
+    "price_per_unit": "12,47 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Ail blanc bio Bio Village 250g",
+    "origin": "FRANCE",
+    "price_eur": 3.99,
+    "price_per_unit": "15,96 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Gousses d'ail blanc 150g",
+    "origin": "FRANCE",
+    "price_eur": 3.32,
+    "price_per_unit": "22,13 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Ail violet Panier du Primeur x3",
+    "origin": "ESPAGNE",
+    "price_eur": 2.99,
+    "price_per_unit": "1,00 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Ail violet Panier du Primeur x3",
+    "origin": "FRANCE",
+    "price_eur": 2.99,
+    "price_per_unit": "1,00 € / p"
+  },
+  {
+    "category": "legumes",
+    "name": "Oignon Cébette 1 botte",
+    "origin": "FRANCE",
+    "price_eur": 1.57,
+    "price_per_unit": ""
+  },
+  {
+    "category": "legumes",
+    "name": "Oignons jaunes Eco+ 1.5 Kg",
+    "origin": "FRANCE",
+    "price_eur": 1.69,
+    "price_per_unit": "1,13 € / kg"
+  },
+  {
+    "category": "legumes",
+    "name": "Oignons jaunes Filière Panier du Primeur Filet 1kg",
+    "origin": "FRANCE",
+    "price_eur": 1.99,
+    "price_per_unit": "1,99 € / kg"
+  },
+  {
+    "category": "legumes",
     "name": "Chèvre à dorer Les Croisés x4 - 100g",
     "origin": "",
     "price_eur": 1.75,
