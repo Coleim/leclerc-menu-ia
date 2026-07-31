@@ -1,0 +1,9 @@
+- 4 personnes: 2 adultes et 2 enfants (5 et 8 ans)
+- 1 adulte avec besoin de perte de poids
+- 1 enfant a faire attention
+- pas de tomates
+- menu pour le soir uniquement la semaine (lundi, mardi, mercredi, jeudi, vendredi)
+- menu pour midi et soir le week end (samedi, dimanche)
+- prix global sur la semaine, max 100 euros
+- recettes rapide et facile: max 20 minutes de preparation
+- suivre les recommandations de santé (1/4 viande, 1/4 feculent, 1/2 legume)
