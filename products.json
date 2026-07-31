@@ -1195,5 +1195,362 @@
     "origin": "",
     "price_eur": 2.66,
     "price_per_unit": "147,78 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Queues de langouste crue Ronde des Mers - 340g",
+    "origin": null,
+    "price_eur": 23.79,
+    "price_per_unit": "69,97 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevette cuite 60/80 Equat ASC L'Atelier Poissonnerie - 500g",
+    "origin": null,
+    "price_eur": 4.99,
+    "price_per_unit": "9,98 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes natures Pêche Océan 125g",
+    "origin": null,
+    "price_eur": 3.99,
+    "price_per_unit": "31,92 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes décortiquées ASC Delpierre - 180g",
+    "origin": null,
+    "price_eur": 6.42,
+    "price_per_unit": "35,67 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Couronne de crevettes Delpierre ASC Sauce cocktail - 130g",
+    "origin": null,
+    "price_eur": 5.12,
+    "price_per_unit": "39,38 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes Delpierre ASC décortiquées - 100g",
+    "origin": null,
+    "price_eur": 3.67,
+    "price_per_unit": "36,70 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Couronne de crevettes Delpierre ASC sauce fines herbes - 130g",
+    "origin": null,
+    "price_eur": 5.06,
+    "price_per_unit": "38,92 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes nature Assiette Bleue Décortiquées - 200g",
+    "origin": null,
+    "price_eur": 6.52,
+    "price_per_unit": "32,60 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes décortiquées ASC Delpierre Ail et Persil 180g",
+    "origin": null,
+    "price_eur": 6.11,
+    "price_per_unit": "33,94 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Sauce Mayonnaise La Sablaise 135g",
+    "origin": null,
+    "price_eur": 2.25,
+    "price_per_unit": "16,67 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filet de maquereaux Pêche Océan Fumé poivre - 150g",
+    "origin": null,
+    "price_eur": 3.29,
+    "price_per_unit": "21,93 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filets de Morue Ronde des Mers Prêt à cuisiner 400g",
+    "origin": null,
+    "price_eur": 7.99,
+    "price_per_unit": "19,98 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Mayonnaise Fins Gourmets MAILLE Bocal - 320g",
+    "origin": null,
+    "price_eur": 2.49,
+    "price_per_unit": "7,78 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Pavé de saumon Eco+ 4x110g",
+    "origin": "Norvège",
+    "price_eur": 8.98,
+    "price_per_unit": "20,41 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Pavé de saumon Eco+ 2x110g",
+    "origin": "Norvège",
+    "price_eur": 4.97,
+    "price_per_unit": "22,59 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Dos de cabillaud MSC Eco+ Sans peau et sans arête - 200g",
+    "origin": "ATLANTIQUE NORD EST",
+    "price_eur": 5.99,
+    "price_per_unit": "29,95 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Pavés de saumon Global Gap L'Atelier Poissonnerie x4 -500g",
+    "origin": "Norvège",
+    "price_eur": 11.49,
+    "price_per_unit": "22,98 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Pavé de saumon élevé en Norvège L'Atelier Poissonnerie x6 -750g",
+    "origin": "Novège dans le nordland",
+    "price_eur": 16.4,
+    "price_per_unit": "21,87 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Pavés de saumon Global Gap L'Atelier Poissonnerie x2 250g",
+    "origin": "-norvege",
+    "price_eur": 5.99,
+    "price_per_unit": "23,96 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filet de saumon de Norvège Global Gap - 600g",
+    "origin": "-norvege",
+    "price_eur": 12.95,
+    "price_per_unit": "21,58 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Dos de cabillaud MSC L'Atelier Poissonnerie - 300g",
+    "origin": "ATLANTIQUE NORD EST",
+    "price_eur": 10.99,
+    "price_per_unit": "36,63 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filets de colin d'Alaska Meunière MSC x2 - 200g",
+    "origin": null,
+    "price_eur": 2.69,
+    "price_per_unit": "13,45 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filets de limande du Nord MSC L'Atelier Poissonnerie x4 400g",
+    "origin": null,
+    "price_eur": 6.75,
+    "price_per_unit": "16,88 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Filets de limande du Nord MSC L'Atelier Poissonnerie x2 200g",
+    "origin": null,
+    "price_eur": 3.49,
+    "price_per_unit": "17,45 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Citron à jus Filière Panier du Primeur Sachet 1kg",
+    "origin": "ESPAGNE",
+    "price_eur": 3.69,
+    "price_per_unit": "3,69 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Crevettes décortiquées Eco+ 500g",
+    "origin": "",
+    "price_eur": 4.99,
+    "price_per_unit": "9,98 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Saucisse de volaille Volandrie x6 - 300g",
+    "origin": null,
+    "price_eur": 3.49,
+    "price_per_unit": "11,63 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet Bon Plan Douce France - 500g",
+    "origin": null,
+    "price_eur": 5.67,
+    "price_per_unit": "11,34 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Cuisses de poulet Bon plan Douce France - 900g",
+    "origin": null,
+    "price_eur": 4.62,
+    "price_per_unit": "5,13 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Émincés de poulet paprika L'Atelier Volaille - 300g",
+    "origin": null,
+    "price_eur": 3.79,
+    "price_per_unit": "12,63 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet blanc Volandrie Extra tendre - 300g",
+    "origin": null,
+    "price_eur": 3.9,
+    "price_per_unit": "13,00 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet jaune Volandrie Extra tendre - 300g",
+    "origin": null,
+    "price_eur": 3.9,
+    "price_per_unit": "13,00 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Aiguillettes poulet blanc Volandrie - 210g",
+    "origin": null,
+    "price_eur": 2.95,
+    "price_per_unit": "14,05 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Aiguillettes poulet jaune Volandrie - 210g",
+    "origin": null,
+    "price_eur": 2.95,
+    "price_per_unit": "14,05 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filets poulet blanc Volandrie 300g",
+    "origin": null,
+    "price_eur": 3.79,
+    "price_per_unit": "12,63 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet jaune Volandrie 300g",
+    "origin": null,
+    "price_eur": 3.79,
+    "price_per_unit": "12,63 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet St Charmin Blanc Val de Loire x2 - 240g",
+    "origin": null,
+    "price_eur": 5.49,
+    "price_per_unit": "22,88 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Cuisse de poulet St Charmin Blanc Val de Loire x2 - 480g",
+    "origin": null,
+    "price_eur": 4.08,
+    "price_per_unit": "8,50 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filets de poulet St Charmin Val de Loire x2 - 240g",
+    "origin": null,
+    "price_eur": 5.49,
+    "price_per_unit": "22,88 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filets de poulet Périgord NRT x2 Label Rouge - 265g",
+    "origin": null,
+    "price_eur": 6.15,
+    "price_per_unit": "23,21 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filets de poulet Auvergne NRT x2 Label Rouge - 265g",
+    "origin": null,
+    "price_eur": 6.15,
+    "price_per_unit": "23,21 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filets de poulet Eco+ Blanc - 1kg",
+    "origin": null,
+    "price_eur": 9.49,
+    "price_per_unit": "9,49 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Haut de cuisse Maitre Coq Poulet blanc nourri au blé 750g",
+    "origin": null,
+    "price_eur": 4.11,
+    "price_per_unit": "5,48 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Haut de cuisse jaune Maitre Coq Poulet -nourri au maïs - 750g",
+    "origin": null,
+    "price_eur": 4.56,
+    "price_per_unit": "6,08 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet blanc Maitre Coq nourri blé 300g",
+    "origin": null,
+    "price_eur": 4.15,
+    "price_per_unit": "13,83 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet jaune Maitre Coq nourri mais 300g",
+    "origin": null,
+    "price_eur": 4.44,
+    "price_per_unit": "14,80 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Cuisse de poulet blanc Maître Coq - 1kg",
+    "origin": null,
+    "price_eur": 5.86,
+    "price_per_unit": "5,86 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Cuisse de poulet Maitre Coq Jaune nourri maïs - 1kg",
+    "origin": null,
+    "price_eur": 5.25,
+    "price_per_unit": "5,25 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Pilon de poulet Maitre Coq Jaune - nourri au maïs - 750g",
+    "origin": null,
+    "price_eur": 4.64,
+    "price_per_unit": "6,19 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Mayonnaise Rustica 830g",
+    "origin": "",
+    "price_eur": 3.65,
+    "price_per_unit": "4,40 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Pommes frites Eco+ 2,5kg",
+    "origin": "",
+    "price_eur": 2.67,
+    "price_per_unit": "1,07 € / kg"
   }
 ]
