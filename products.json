@@ -22,17 +22,10 @@
   },
   {
     "category": "boucherie",
-    "name": "Saucisses de Toulouse Férial x4 - 500g",
-    "origin": null,
-    "price_eur": 3.98,
-    "price_per_unit": "7,96 € / kg"
-  },
-  {
-    "category": "boucherie",
     "name": "Saucisses de Toulouse x4 Soutenons Nos Agriculteurs 400g",
     "origin": null,
-    "price_eur": 3.97,
-    "price_per_unit": "9,93 € / kg"
+    "price_eur": 3.94,
+    "price_per_unit": "9,85 € / kg"
   },
   {
     "category": "boucherie",
@@ -43,10 +36,10 @@
   },
   {
     "category": "boucherie",
-    "name": "Chipolatas Férial x12 - 660g",
+    "name": "Chipolatas aux herbes Férial 330g",
     "origin": null,
-    "price_eur": 5.99,
-    "price_per_unit": "9,08 € / kg"
+    "price_eur": 3.12,
+    "price_per_unit": "9,45 € / kg"
   },
   {
     "category": "boucherie",
@@ -99,10 +92,10 @@
   },
   {
     "category": "boucherie",
-    "name": "Faux filet de boeuf *** L'Atelier Boucherie x2 - 330g",
-    "origin": "FRANCE",
-    "price_eur": 8.99,
-    "price_per_unit": "27,24 € / kg"
+    "name": "Pièce à fondue / Brochette L'Atelier Boucherie - 500g",
+    "origin": null,
+    "price_eur": 13.99,
+    "price_per_unit": "27,98 € / kg"
   },
   {
     "category": "boucherie",
@@ -162,6 +155,13 @@
   },
   {
     "category": "boucherie",
+    "name": "Rumsteck tournedos*** limousine L'Atelier Boucherie x2 - 280g",
+    "origin": null,
+    "price_eur": 8.99,
+    "price_per_unit": "32,11 € / kg"
+  },
+  {
+    "category": "boucherie",
     "name": "Faux filet bœuf *** limousine L'atelier Boucherie x1 -180G",
     "origin": null,
     "price_eur": 6.49,
@@ -169,17 +169,17 @@
   },
   {
     "category": "boucherie",
-    "name": "Sauces gourmandes Rustica Pour viande 4 saveurs - 4x90g",
+    "name": "Sauce roquefort Ferial 120g",
     "origin": "",
-    "price_eur": 2.34,
-    "price_per_unit": "6,50 € / kg"
+    "price_eur": 1.65,
+    "price_per_unit": "13,75 € / kg"
   },
   {
     "category": "boucherie",
-    "name": "Frites Pom'lisse 2.5 kg",
+    "name": "Sauce bolognaise Bio Village Bio - 350g",
     "origin": "",
-    "price_eur": 3.99,
-    "price_per_unit": "1,60 € / kg"
+    "price_eur": 1.67,
+    "price_per_unit": "4,77 € / kg"
   },
   {
     "category": "conserves",
@@ -227,8 +227,8 @@
     "category": "conserves",
     "name": "Ratatouille Cuisinée Cassegrain à la Provençale 380g",
     "origin": null,
-    "price_eur": 2.85,
-    "price_per_unit": "7,50 € / kg"
+    "price_eur": 2.84,
+    "price_per_unit": "7,47 € / kg"
   },
   {
     "category": "conserves",
@@ -241,15 +241,15 @@
     "category": "conserves",
     "name": "Legumes couscous Cassegrain 430g",
     "origin": null,
-    "price_eur": 2.72,
-    "price_per_unit": "6,33 € / kg"
+    "price_eur": 2.73,
+    "price_per_unit": "6,35 € / kg"
   },
   {
     "category": "conserves",
     "name": "Ratatouille niçoise D'aucy 750g",
     "origin": null,
-    "price_eur": 1.98,
-    "price_per_unit": "2,64 € / kg"
+    "price_eur": 1.97,
+    "price_per_unit": "2,63 € / kg"
   },
   {
     "category": "conserves",
@@ -267,17 +267,17 @@
   },
   {
     "category": "conserves",
-    "name": "Le Haricot vert Cueilli Main Bonduelle Extra Fin 280g",
+    "name": "Courgettes Cuisinées Cassegrain à la Provençale 375g",
     "origin": null,
-    "price_eur": 2.52,
-    "price_per_unit": "9,00 € / kg"
+    "price_eur": 3.21,
+    "price_per_unit": "8,56 € / kg"
   },
   {
     "category": "conserves",
     "name": "Légumes couscous Notre Jardin 400g",
     "origin": null,
-    "price_eur": 1.38,
-    "price_per_unit": "3,45 € / kg"
+    "price_eur": 1.43,
+    "price_per_unit": "3,58 € / kg"
   },
   {
     "category": "conserves",
@@ -290,15 +290,15 @@
     "category": "conserves",
     "name": "Légumes pour couscous bio Jardin Bio - 660g",
     "origin": null,
-    "price_eur": 2.68,
-    "price_per_unit": "3,72 € / l"
+    "price_eur": 2.67,
+    "price_per_unit": "3,71 € / l"
   },
   {
     "category": "conserves",
     "name": "Courgettes Cuisinées Cassegrain à la Provençale 375g",
     "origin": null,
-    "price_eur": 3.2,
-    "price_per_unit": "8,53 € / kg"
+    "price_eur": 3.21,
+    "price_per_unit": "8,56 € / kg"
   },
   {
     "category": "conserves",
@@ -311,8 +311,8 @@
     "category": "conserves",
     "name": "Courgettes cuisinées D'Aucy Provencale - 380g",
     "origin": null,
-    "price_eur": 2.14,
-    "price_per_unit": "5,63 € / kg"
+    "price_eur": 2.35,
+    "price_per_unit": "6,18 € / kg"
   },
   {
     "category": "conserves",
@@ -325,8 +325,8 @@
     "category": "conserves",
     "name": "Aubergines compotées & blé Cassegrain - 375g",
     "origin": null,
-    "price_eur": 3.54,
-    "price_per_unit": "9,44 € / kg"
+    "price_eur": 3.43,
+    "price_per_unit": "9,15 € / kg"
   },
   {
     "category": "conserves",
@@ -337,66 +337,45 @@
   },
   {
     "category": "conserves",
-    "name": "Champignon Bonduelle Emincé - 3x115g",
+    "name": "Le Haricot vert Cueilli Main Bonduelle Extra Fin 280g",
     "origin": null,
-    "price_eur": 2.77,
-    "price_per_unit": "8,03 € / kg"
+    "price_eur": 2.52,
+    "price_per_unit": "9,00 € / kg"
   },
   {
     "category": "conserves",
     "name": "Aubergines cuisinées D'Aucy 380g",
     "origin": null,
-    "price_eur": 2.05,
-    "price_per_unit": "5,39 € / kg"
+    "price_eur": 2.23,
+    "price_per_unit": "5,87 € / kg"
   },
   {
     "category": "conserves",
-    "name": "Macédoine légumes Notre Jardin - 530g",
+    "name": "Printanière Cassegrain Carotte, Petit Pois, Champignon - 265g",
     "origin": null,
-    "price_eur": 1.23,
-    "price_per_unit": "2,32 € / kg"
+    "price_eur": 2.04,
+    "price_per_unit": "7,70 € / kg"
   },
   {
     "category": "conserves",
-    "name": "Macédoine légumes Notre Jardin 265g",
+    "name": "Champignon Bonduelle Emincé - 3x115g",
     "origin": null,
-    "price_eur": 0.71,
-    "price_per_unit": "2,68 € / kg"
+    "price_eur": 2.91,
+    "price_per_unit": "8,43 € / kg"
   },
   {
     "category": "conserves",
-    "name": "Macédoine légumes Notre Jardin 3x130g",
+    "name": "Aubergines compotées & blé Cassegrain - 375g",
     "origin": null,
-    "price_eur": 1.72,
-    "price_per_unit": "4,41 € / kg"
+    "price_eur": 3.43,
+    "price_per_unit": "9,15 € / kg"
   },
   {
-    "category": "conserves",
-    "name": "Macedoine de legumes Eco 530g",
-    "origin": null,
-    "price_eur": 1.09,
-    "price_per_unit": "2,06 € / kg"
-  },
-  {
-    "category": "conserves",
-    "name": "Macédoine déjà égouttée D'aucy 265g",
-    "origin": null,
-    "price_eur": 1.35,
-    "price_per_unit": "5,09 € / kg"
-  },
-  {
-    "category": "conserves",
-    "name": "Macédoine déjà égouttée D'aucy 530g",
-    "origin": null,
-    "price_eur": 2.06,
-    "price_per_unit": "3,89 € / kg"
-  },
-  {
-    "category": "conserves",
-    "name": "Riz long Comptoir du Grain Cuisson rapide - 2kg",
-    "origin": "",
-    "price_eur": 3.32,
-    "price_per_unit": "1,66 € / kg"
+    "category": "fruits",
+    "name": "IGP Mirabelles de Lorraine Nos Régions ont du Talent 500g",
+    "origin": "FRANCE",
+    "price_eur": 5.99,
+    "price_per_unit": "11,98 € / kg"
   },
   {
     "category": "fruits",
@@ -444,6 +423,13 @@
     "category": "fruits",
     "name": "Melon HVE Panier du Primeur x1",
     "origin": "FRANCE",
+    "price_eur": 2.14,
+    "price_per_unit": ""
+  },
+  {
+    "category": "fruits",
+    "name": "Melon de Cavaillon Nos Régions ont du Talent - x1",
+    "origin": "FRANCE",
     "price_eur": 2.49,
     "price_per_unit": ""
   },
@@ -451,7 +437,7 @@
     "category": "fruits",
     "name": "Melon Charentais bio Bio Village x1",
     "origin": "FRANCE",
-    "price_eur": 3.49,
+    "price_eur": 2.79,
     "price_per_unit": ""
   },
   {
@@ -463,21 +449,7 @@
   },
   {
     "category": "fruits",
-    "name": "Melon Galia 1p",
-    "origin": "ESPAGNE",
-    "price_eur": 1.99,
-    "price_per_unit": ""
-  },
-  {
-    "category": "fruits",
     "name": "Melon jaune 1p",
-    "origin": "ESPAGNE",
-    "price_eur": 2.49,
-    "price_per_unit": ""
-  },
-  {
-    "category": "fruits",
-    "name": "Melon vert 1p",
     "origin": "ESPAGNE",
     "price_eur": 2.49,
     "price_per_unit": ""
@@ -491,6 +463,13 @@
   },
   {
     "category": "fruits",
+    "name": "Melon vert 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 2.49,
+    "price_per_unit": ""
+  },
+  {
+    "category": "fruits",
     "name": "Mini pastèque Panier du Primeur x1",
     "origin": "ESPAGNE",
     "price_eur": 3.17,
@@ -500,7 +479,14 @@
     "category": "fruits",
     "name": "Mini pastèque Bio Village Bio x1",
     "origin": "ESPAGNE",
-    "price_eur": 3.49,
+    "price_eur": 2.99,
+    "price_per_unit": ""
+  },
+  {
+    "category": "fruits",
+    "name": "Pastèque noire 1p",
+    "origin": "ESPAGNE",
+    "price_eur": 4.62,
     "price_per_unit": ""
   },
   {
@@ -511,67 +497,11 @@
     "price_per_unit": ""
   },
   {
-    "category": "fruits",
-    "name": "Abricots Eco+ Barquette 1kg",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": "2,99 € / kg"
-  },
-  {
-    "category": "fruits",
-    "name": "Abricots des Baronnies Nos Régions ont du Talent 500g",
-    "origin": "FRANCE",
-    "price_eur": 4.99,
-    "price_per_unit": "9,98 € / kg"
-  },
-  {
-    "category": "fruits",
-    "name": "Nectarines Eco+ Barquette 1kg",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": "2,99 € / kg"
-  },
-  {
-    "category": "fruits",
-    "name": "Nectarines blanches Filière Panier du Primeur Barquette x4",
-    "origin": "FRANCE",
-    "price_eur": 3.89,
-    "price_per_unit": "0,97 € / p"
-  },
-  {
-    "category": "fruits",
-    "name": "Nectarines jaune Filière Panier du Primeur Barquette x4",
-    "origin": "FRANCE",
-    "price_eur": 3.89,
-    "price_per_unit": "0,97 € / p"
-  },
-  {
-    "category": "fruits",
-    "name": "Nectarines Bio Village x4",
-    "origin": "FRANCE",
-    "price_eur": 4.49,
-    "price_per_unit": ""
-  },
-  {
-    "category": "fruits",
-    "name": "Nectarine jaune 1p",
-    "origin": "FRANCE",
-    "price_eur": 0.64,
-    "price_per_unit": ""
-  },
-  {
     "category": "legumes",
     "name": "Haricots verts éboutés 500g",
     "origin": "KENYA",
     "price_eur": 5.99,
     "price_per_unit": "11,98 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Pousses haricot Mungo Les Crudettes - 250g",
-    "origin": null,
-    "price_eur": 2.16,
-    "price_per_unit": "8,64 € / kg"
   },
   {
     "category": "legumes",
@@ -596,23 +526,9 @@
   },
   {
     "category": "legumes",
-    "name": "Aubergine Bio Bio Village x2",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": "1,50 € / p"
-  },
-  {
-    "category": "legumes",
     "name": "Aubergine 1p",
     "origin": "ESPAGNE",
     "price_eur": 1.65,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Poivron doux jaune 1p",
-    "origin": "ESPAGNE",
-    "price_eur": 1.39,
     "price_per_unit": ""
   },
   {
@@ -647,8 +563,8 @@
     "category": "legumes",
     "name": "Mélange de poivrons doux 500g",
     "origin": "ESPAGNE",
-    "price_eur": 2.49,
-    "price_per_unit": "4,98 € / kg"
+    "price_eur": 2.89,
+    "price_per_unit": "5,78 € / kg"
   },
   {
     "category": "legumes",
@@ -708,13 +624,6 @@
   },
   {
     "category": "legumes",
-    "name": "Tomates rondes Eco+ Filet 1kg",
-    "origin": "FRANCE",
-    "price_eur": 1.99,
-    "price_per_unit": "1,99 € / kg"
-  },
-  {
-    "category": "legumes",
     "name": "Tomates allongées Panier du Primeur - 600g",
     "origin": "FRANCE",
     "price_eur": 3.49,
@@ -750,276 +659,10 @@
   },
   {
     "category": "legumes",
-    "name": "Concombre Panier du Primeur HVE - x2",
-    "origin": "France",
-    "price_eur": 2.99,
-    "price_per_unit": "1,50 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Concombre Bio Bio Village x1",
-    "origin": "Espagne",
-    "price_eur": 1.99,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Concombre Noa 1 pièce",
-    "origin": "FRANCE",
-    "price_eur": 3.69,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Fenouil 1p",
-    "origin": "ITALIE",
-    "price_eur": 1.71,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Avocats Eco+ Filet x3",
-    "origin": "PÉROU",
-    "price_eur": 1.99,
-    "price_per_unit": "0,66 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Avocats mûrs à point Panier du Primeur x2",
-    "origin": "PÉROU",
-    "price_eur": 3.45,
-    "price_per_unit": "1,73 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Avocat Bio Bio Village En barquette x2",
-    "origin": "KENYA",
-    "price_eur": 3.59,
-    "price_per_unit": "1,80 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Betterave rouge Notre Jardin Entière cuite sous vide - 500g",
-    "origin": "FRANCE",
-    "price_eur": 0.69,
-    "price_per_unit": "1,38 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Betterave rouge Bio Bio Village - 500g",
-    "origin": null,
-    "price_eur": 1.09,
-    "price_per_unit": "2,18 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Blancs de poireaux filière Panier du Primeur - 500g",
-    "origin": "FRANCE",
-    "price_eur": 3.49,
-    "price_per_unit": "6,98 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Carottes Eco+ Sachet de 2kg",
-    "origin": "FRANCE",
-    "price_eur": 2.49,
-    "price_per_unit": "1,25 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Carottes filière Panier du Primeur - 1kg",
-    "origin": "FRANCE",
-    "price_eur": 1.53,
-    "price_per_unit": "1,53 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Carotte Bio Bio Village 1kg",
-    "origin": "FRANCE",
-    "price_eur": 1.99,
-    "price_per_unit": "1,99 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Carotte 2 Kg",
-    "origin": "FRANCE",
-    "price_eur": 1.79,
-    "price_per_unit": "0,90 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Baby carottes Notre Jardin 250g",
-    "origin": "FRANCE",
-    "price_eur": 1.59,
-    "price_per_unit": "6,36 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Baby carottes Florette 250g",
-    "origin": null,
-    "price_eur": 2.17,
-    "price_per_unit": "8,68 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Baby Carottes 450g",
-    "origin": null,
-    "price_eur": 3.6,
-    "price_per_unit": "8,00 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Baby Carottes Ferme à Jules 200g",
-    "origin": "FRANCE",
-    "price_eur": 1.75,
-    "price_per_unit": "8,75 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Baby carottes La Ferme à Jules Les Crudettes - 400g",
-    "origin": null,
-    "price_eur": 3.14,
-    "price_per_unit": "7,85 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Céleri 1 branche",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Champignons de Paris blancs Panier du Primeur - 400g",
-    "origin": "FRANCE",
-    "price_eur": 2.39,
-    "price_per_unit": "5,98 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Champignons de Paris blancs Bio Bio Village - 200g",
-    "origin": "FRANCE",
-    "price_eur": 2.29,
-    "price_per_unit": "11,45 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Champignons de Paris bruns Panier du Primeur - 250g",
-    "origin": "FRANCE",
-    "price_eur": 1.79,
-    "price_per_unit": "7,16 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Champignons de Paris bruns bio Bio Village - Barquette 200g",
-    "origin": "FRANCE",
-    "price_eur": 2.29,
-    "price_per_unit": "11,45 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Cèpes déshydratés Notre Jardin 40g",
-    "origin": null,
-    "price_eur": 3.16,
-    "price_per_unit": "79,00 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Chou-fleur blanc 1p",
-    "origin": "FRANCE",
-    "price_eur": 4.99,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Chou-fleur Florette 180g",
-    "origin": null,
-    "price_eur": 2.1,
-    "price_per_unit": "11,67 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Chou rouge émincé Notre Jardin 250g",
-    "origin": null,
-    "price_eur": 0.99,
-    "price_per_unit": "3,96 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Ail Eco+ Filet 250g",
-    "origin": "ESPAGNE",
-    "price_eur": 1.99,
-    "price_per_unit": "7,96 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Ail blanc Panier du Primeur A mijoter et à confire x3",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": "1,00 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "IGP Ail blanc de Lomagne Nos Régions ont du Talent 320g",
-    "origin": "FRANCE",
-    "price_eur": 3.99,
-    "price_per_unit": "12,47 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Ail blanc bio Bio Village 250g",
-    "origin": "FRANCE",
-    "price_eur": 3.99,
-    "price_per_unit": "15,96 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Gousses d'ail blanc 150g",
-    "origin": "FRANCE",
-    "price_eur": 3.32,
-    "price_per_unit": "22,13 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Ail violet Panier du Primeur x3",
-    "origin": "ESPAGNE",
-    "price_eur": 2.99,
-    "price_per_unit": "1,00 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Ail violet Panier du Primeur x3",
-    "origin": "FRANCE",
-    "price_eur": 2.99,
-    "price_per_unit": "1,00 € / p"
-  },
-  {
-    "category": "legumes",
-    "name": "Oignon Cébette 1 botte",
-    "origin": "FRANCE",
-    "price_eur": 1.57,
-    "price_per_unit": ""
-  },
-  {
-    "category": "legumes",
-    "name": "Oignons jaunes Eco+ 1.5 Kg",
-    "origin": "FRANCE",
-    "price_eur": 1.69,
-    "price_per_unit": "1,13 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Oignons jaunes Filière Panier du Primeur Filet 1kg",
-    "origin": "FRANCE",
-    "price_eur": 1.99,
-    "price_per_unit": "1,99 € / kg"
-  },
-  {
-    "category": "legumes",
-    "name": "Chèvre à dorer Les Croisés x4 - 100g",
+    "name": "Dés fromage Herbes de Provence Poivrons Les Croisés - 300g",
     "origin": "",
-    "price_eur": 1.75,
-    "price_per_unit": "17,50 € / kg"
+    "price_eur": 2.1,
+    "price_per_unit": "7,00 € / kg"
   },
   {
     "category": "pates",
@@ -1079,6 +722,13 @@
   },
   {
     "category": "pates",
+    "name": "Dahl de lentilles Cassegrain A l'indienne - 435g",
+    "origin": null,
+    "price_eur": 2.67,
+    "price_per_unit": "6,14 € / kg"
+  },
+  {
+    "category": "pates",
     "name": "Pâtes Farfalles Turini 1kg",
     "origin": null,
     "price_eur": 1.2,
@@ -1109,8 +759,8 @@
     "category": "pates",
     "name": "Pâtes gansettes Turini 500g",
     "origin": null,
-    "price_eur": 0.97,
-    "price_per_unit": "1,94 € / kg"
+    "price_eur": 0.96,
+    "price_per_unit": "1,92 € / kg"
   },
   {
     "category": "pates",
@@ -1128,59 +778,17 @@
   },
   {
     "category": "pates",
-    "name": "Pâtes Tagliatelles Turini 500g",
+    "name": "Chili de haricots Cassegrain A la mexicaine - 430g",
     "origin": null,
-    "price_eur": 1.19,
-    "price_per_unit": "2,38 € / kg"
+    "price_eur": 2.68,
+    "price_per_unit": "6,23 € / kg"
   },
   {
     "category": "pates",
-    "name": "Pâtes Nouilles Turini 500g",
+    "name": "Curry  pois chiches Cassegrain A l'indienne - 430g",
     "origin": null,
-    "price_eur": 0.75,
-    "price_per_unit": "1,50 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Spaghetti Turini 500g",
-    "origin": null,
-    "price_eur": 0.69,
-    "price_per_unit": "1,38 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Pâtes Spaghetti Turini 1kg",
-    "origin": null,
-    "price_eur": 1.33,
-    "price_per_unit": "1,33 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Pâtes linguine Turini 500g",
-    "origin": null,
-    "price_eur": 0.9,
-    "price_per_unit": "1,80 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Pâtes Capellini Turini 500g",
-    "origin": null,
-    "price_eur": 0.85,
-    "price_per_unit": "1,70 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Pâtes Alphabet Turini 500g",
-    "origin": null,
-    "price_eur": 0.95,
-    "price_per_unit": "1,90 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Pâtes Etoiles Turini 500g",
-    "origin": null,
-    "price_eur": 0.99,
-    "price_per_unit": "1,98 € / kg"
+    "price_eur": 2.66,
+    "price_per_unit": "6,19 € / kg"
   },
   {
     "category": "pates",
@@ -1188,13 +796,6 @@
     "origin": "",
     "price_eur": 1.75,
     "price_per_unit": "1,75 € / kg"
-  },
-  {
-    "category": "pates",
-    "name": "Muscade Noix Entières Ducros 18 g",
-    "origin": "",
-    "price_eur": 2.66,
-    "price_per_unit": "147,78 € / kg"
   },
   {
     "category": "poissonnerie",
@@ -1212,6 +813,13 @@
   },
   {
     "category": "poissonnerie",
+    "name": "Petites crevettes roses Pêche Océan - 125g",
+    "origin": null,
+    "price_eur": 2.49,
+    "price_per_unit": "19,92 € / kg"
+  },
+  {
+    "category": "poissonnerie",
     "name": "Crevettes natures Pêche Océan 125g",
     "origin": null,
     "price_eur": 3.99,
@@ -1219,17 +827,24 @@
   },
   {
     "category": "poissonnerie",
+    "name": "Crevettes Bio Bio Village 100g",
+    "origin": null,
+    "price_eur": 3.34,
+    "price_per_unit": "33,40 € / kg"
+  },
+  {
+    "category": "poissonnerie",
     "name": "Crevettes décortiquées ASC Delpierre - 180g",
     "origin": null,
-    "price_eur": 6.42,
-    "price_per_unit": "35,67 € / kg"
+    "price_eur": 6.63,
+    "price_per_unit": "36,83 € / kg"
   },
   {
     "category": "poissonnerie",
     "name": "Couronne de crevettes Delpierre ASC Sauce cocktail - 130g",
     "origin": null,
-    "price_eur": 5.12,
-    "price_per_unit": "39,38 € / kg"
+    "price_eur": 5.15,
+    "price_per_unit": "39,62 € / kg"
   },
   {
     "category": "poissonnerie",
@@ -1249,15 +864,15 @@
     "category": "poissonnerie",
     "name": "Crevettes nature Assiette Bleue Décortiquées - 200g",
     "origin": null,
-    "price_eur": 6.52,
-    "price_per_unit": "32,60 € / kg"
+    "price_eur": 6.53,
+    "price_per_unit": "32,65 € / kg"
   },
   {
     "category": "poissonnerie",
     "name": "Crevettes décortiquées ASC Delpierre Ail et Persil 180g",
     "origin": null,
-    "price_eur": 6.11,
-    "price_per_unit": "33,94 € / kg"
+    "price_eur": 6.13,
+    "price_per_unit": "34,06 € / kg"
   },
   {
     "category": "poissonnerie",
@@ -1265,6 +880,13 @@
     "origin": null,
     "price_eur": 2.25,
     "price_per_unit": "16,67 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Mayonnaise AMORA Recette Fouettée - 398g",
+    "origin": null,
+    "price_eur": 2.55,
+    "price_per_unit": "6,41 € / kg"
   },
   {
     "category": "poissonnerie",
@@ -1279,13 +901,6 @@
     "origin": null,
     "price_eur": 7.99,
     "price_per_unit": "19,98 € / kg"
-  },
-  {
-    "category": "poissonnerie",
-    "name": "Mayonnaise Fins Gourmets MAILLE Bocal - 320g",
-    "origin": null,
-    "price_eur": 2.49,
-    "price_per_unit": "7,78 € / kg"
   },
   {
     "category": "poissonnerie",
@@ -1338,45 +953,38 @@
   },
   {
     "category": "poissonnerie",
-    "name": "Dos de cabillaud MSC L'Atelier Poissonnerie - 300g",
-    "origin": "ATLANTIQUE NORD EST",
-    "price_eur": 10.99,
-    "price_per_unit": "36,63 € / kg"
-  },
-  {
-    "category": "poissonnerie",
-    "name": "Filets de colin d'Alaska Meunière MSC x2 - 200g",
+    "name": "Mayonnaise de Dijon AMORA 235g",
     "origin": null,
-    "price_eur": 2.69,
-    "price_per_unit": "13,45 € / kg"
+    "price_eur": 1.94,
+    "price_per_unit": "8,26 € / kg"
   },
   {
     "category": "poissonnerie",
-    "name": "Filets de limande du Nord MSC L'Atelier Poissonnerie x4 400g",
+    "name": "Filets de cabillaud MSC L'Atelier Poissonnerie  - 250g",
+    "origin": "Mer de Norvège",
+    "price_eur": 6.99,
+    "price_per_unit": "27,96 € / kg"
+  },
+  {
+    "category": "poissonnerie",
+    "name": "Mayonnaise Fins Gourmets MAILLE Bocal - 320g",
     "origin": null,
-    "price_eur": 6.75,
-    "price_per_unit": "16,88 € / kg"
+    "price_eur": 2.49,
+    "price_per_unit": "7,78 € / kg"
   },
   {
     "category": "poissonnerie",
-    "name": "Filets de limande du Nord MSC L'Atelier Poissonnerie x2 200g",
+    "name": "Mayonnaise de Dijon Amora 235g",
     "origin": null,
-    "price_eur": 3.49,
-    "price_per_unit": "17,45 € / kg"
+    "price_eur": 1.61,
+    "price_per_unit": "6,85 € / kg"
   },
   {
     "category": "poissonnerie",
-    "name": "Citron à jus Filière Panier du Primeur Sachet 1kg",
-    "origin": "ESPAGNE",
-    "price_eur": 3.69,
-    "price_per_unit": "3,69 € / kg"
-  },
-  {
-    "category": "poissonnerie",
-    "name": "Crevettes décortiquées Eco+ 500g",
+    "name": "Oeufs au sol Eco+ x10",
     "origin": "",
-    "price_eur": 4.99,
-    "price_per_unit": "9,98 € / kg"
+    "price_eur": 1.79,
+    "price_per_unit": "0,18 € / p"
   },
   {
     "category": "volaille",
@@ -1387,21 +995,28 @@
   },
   {
     "category": "volaille",
+    "name": "Cubes Filet de poulet Bon Plan Douce France - 400g",
+    "origin": null,
+    "price_eur": 4.98,
+    "price_per_unit": "12,45 € / kg"
+  },
+  {
+    "category": "volaille",
     "name": "Filet de poulet Bon Plan Douce France - 500g",
     "origin": null,
-    "price_eur": 5.67,
-    "price_per_unit": "11,34 € / kg"
+    "price_eur": 5.73,
+    "price_per_unit": "11,46 € / kg"
   },
   {
     "category": "volaille",
     "name": "Cuisses de poulet Bon plan Douce France - 900g",
     "origin": null,
-    "price_eur": 4.62,
-    "price_per_unit": "5,13 € / kg"
+    "price_eur": 4.65,
+    "price_per_unit": "5,17 € / kg"
   },
   {
     "category": "volaille",
-    "name": "Émincés de poulet paprika L'Atelier Volaille - 300g",
+    "name": "Emincés de poulet façon kebab L'atelier Volaille - 300g",
     "origin": null,
     "price_eur": 3.79,
     "price_per_unit": "12,63 € / kg"
@@ -1419,13 +1034,6 @@
     "origin": null,
     "price_eur": 3.9,
     "price_per_unit": "13,00 € / kg"
-  },
-  {
-    "category": "volaille",
-    "name": "Aiguillettes poulet blanc Volandrie - 210g",
-    "origin": null,
-    "price_eur": 2.95,
-    "price_per_unit": "14,05 € / kg"
   },
   {
     "category": "volaille",
@@ -1457,17 +1065,17 @@
   },
   {
     "category": "volaille",
-    "name": "Cuisse de poulet St Charmin Blanc Val de Loire x2 - 480g",
+    "name": "Cuisse poulet jaune St Charmin Val de Loire x2 - 480g",
     "origin": null,
     "price_eur": 4.08,
     "price_per_unit": "8,50 € / kg"
   },
   {
     "category": "volaille",
-    "name": "Filets de poulet St Charmin Val de Loire x2 - 240g",
+    "name": "Cuisse de poulet St Charmin Blanc Val de Loire x2 - 480g",
     "origin": null,
-    "price_eur": 5.49,
-    "price_per_unit": "22,88 € / kg"
+    "price_eur": 4.08,
+    "price_per_unit": "8,50 € / kg"
   },
   {
     "category": "volaille",
@@ -1494,29 +1102,22 @@
     "category": "volaille",
     "name": "Haut de cuisse Maitre Coq Poulet blanc nourri au blé 750g",
     "origin": null,
-    "price_eur": 4.11,
-    "price_per_unit": "5,48 € / kg"
-  },
-  {
-    "category": "volaille",
-    "name": "Haut de cuisse jaune Maitre Coq Poulet -nourri au maïs - 750g",
-    "origin": null,
-    "price_eur": 4.56,
-    "price_per_unit": "6,08 € / kg"
+    "price_eur": 4.17,
+    "price_per_unit": "5,56 € / kg"
   },
   {
     "category": "volaille",
     "name": "Filet de poulet blanc Maitre Coq nourri blé 300g",
     "origin": null,
-    "price_eur": 4.15,
-    "price_per_unit": "13,83 € / kg"
+    "price_eur": 4.3,
+    "price_per_unit": "14,33 € / kg"
   },
   {
     "category": "volaille",
     "name": "Filet de poulet jaune Maitre Coq nourri mais 300g",
     "origin": null,
-    "price_eur": 4.44,
-    "price_per_unit": "14,80 € / kg"
+    "price_eur": 4.42,
+    "price_per_unit": "14,73 € / kg"
   },
   {
     "category": "volaille",
@@ -1529,22 +1130,36 @@
     "category": "volaille",
     "name": "Cuisse de poulet Maitre Coq Jaune nourri maïs - 1kg",
     "origin": null,
-    "price_eur": 5.25,
-    "price_per_unit": "5,25 € / kg"
+    "price_eur": 5.23,
+    "price_per_unit": "5,23 € / kg"
   },
   {
     "category": "volaille",
     "name": "Pilon de poulet Maitre Coq Jaune - nourri au maïs - 750g",
     "origin": null,
-    "price_eur": 4.64,
-    "price_per_unit": "6,19 € / kg"
+    "price_eur": 4.63,
+    "price_per_unit": "6,17 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Filet de poulet Maitre Coq Blanc - 720g",
+    "origin": null,
+    "price_eur": 9.8,
+    "price_per_unit": "13,61 € / kg"
+  },
+  {
+    "category": "volaille",
+    "name": "Mayonnaise Eco+ Flacon souple - 450g",
+    "origin": "",
+    "price_eur": 1.29,
+    "price_per_unit": "2,87 € / kg"
   },
   {
     "category": "volaille",
     "name": "Mayonnaise Rustica 830g",
     "origin": "",
-    "price_eur": 3.65,
-    "price_per_unit": "4,40 € / kg"
+    "price_eur": 3.66,
+    "price_per_unit": "4,41 € / kg"
   },
   {
     "category": "volaille",
